@@ -10,7 +10,7 @@
 <body>
     <div style="text-align: center;">
        <h2>Enter name</h2>
-       <form action="/Hello/Welcome" method="post"> 
+       <form asp-action="Welcome" method="post"> 
            <p><input id ="N1" name ="FirstName" type ="text" value = "@Model.FirstName"</p>
           <input type="submit" id="SendButton" value="Enter" />
        </form>

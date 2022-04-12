@@ -15,12 +15,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\IsmUkraine\SanaPrakt01\WebApplication1\WebApplication1
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/IsmUkraine/SanaPrakt01/WebApplication1/WebApplication1/Views/Hello/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9cSW5kZXguY3NodG1s
+[F:/IsmUkraine/SanaPrakt01/WebApplication1/WebApplication1/Views/Pasha/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzaGFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/IsmUkraine/SanaPrakt01/WebApplication1/WebApplication1/Views/Hello/Welcome.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9cV2VsY29tZS5jc2h0bWw=
+[F:/IsmUkraine/SanaPrakt01/WebApplication1/WebApplication1/Views/Pasha/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzaGFcV2VsY29tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/IsmUkraine/SanaPrakt01/WebApplication1/WebApplication1/Views/Shared/Error.cshtml]
